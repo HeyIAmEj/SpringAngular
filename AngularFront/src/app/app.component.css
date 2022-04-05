@@ -1,0 +1,14 @@
+.spacer {
+  flex: 1 1 auto;
+}
+
+.grid-container {
+  display: grid;
+  justify-content: center;
+  align-content: center;
+}
+
+.grid-item{
+  margin-top: 20%;
+}
+
